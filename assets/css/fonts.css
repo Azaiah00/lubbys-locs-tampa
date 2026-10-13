@@ -1,0 +1,4 @@
+/* Self-hosted fonts (Fontsource, latin subset) */
+@font-face{font-family:"Archivo";src:url("../fonts/archivo-latin-wdth-normal.woff2") format("woff2");font-weight:100 900;font-stretch:62% 125%;font-style:normal;font-display:swap}
+@font-face{font-family:"Archivo Black";src:url("../fonts/archivo-black-latin-400-normal.woff2") format("woff2");font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:"Yellowtail";src:url("../fonts/yellowtail-latin-400-normal.woff2") format("woff2");font-weight:400;font-style:normal;font-display:swap}
